@@ -1,14 +1,14 @@
 # Marketing Spend ROI Optimiser
 
-A machine learning project to **predict campaign ROI** and **optimise marketing spend allocation**.  
+A machine learning project to predict campaign ROI and optimise marketing spend allocation.  
 Using real-world ad performance datasets, this tool helps analysts identify high-performing campaigns early and reallocate budgets to maximise returns.
 
 ---
 
 ## Objective
 Help optimise marketing spend by:
-- Predicting **Return on Investment (ROI)** of campaigns.
-- Simulating **budget reallocation** to maximise profitability.
+- Predicting Return on Investment (ROI) of campaigns.
+- Simulating budget reallocation to maximise profitability.
 - Providing actionable insights for growth and performance marketing teams.
 
 ---
@@ -141,6 +141,6 @@ Total predicted return if allocated to top 25%: $180,000
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the MIT License.  
 Feel free to use, modify, and share with attribution.
